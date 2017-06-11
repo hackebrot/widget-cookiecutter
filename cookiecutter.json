@@ -1,10 +1,18 @@
 {
-	"author_name": "",
-	"author_email": "",
-	"github_project_name": "jupyter-widget-example",
-	"github_organization_name": "jupyter",
-	"python_package_name": "ipywidgetexample",
-	"npm_package_name": "jupyter-widget-example",
-	"npm_package_version": "0.1.0",
-	"project_short_description": "A Custom Jupyter Widget Library"
+    "author_name": "",
+    "author_email": "",
+    "github_project_name": "jupyter-widget-example",
+    "github_organization_name": "jupyter",
+    "python_package_name": "ipywidgetexample",
+    "npm_package_name": "jupyter-widget-example",
+    "npm_package_version": "0.1.0",
+    "project_short_description": "A Custom Jupyter Widget Library",
+    "default_emoji": [
+        "python",
+        "smile",
+        "grin",
+        "robot",
+        "dog",
+        "cat"
+    ]
 }
