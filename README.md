@@ -41,7 +41,7 @@ information:
 - `author_name`: your name or the name of your organization,
 - `author_email`: your project's contact email,
 - `github_project_name`: name of your custom Jupyter widget's GitHub repository,
-- `github_organization_name`: name of your custom Jupyter widget's GitHub user or organization,
+- `github_user_name`: name of your custom Jupyter widget's GitHub user or organization,
 - `python_package_name`: name of the Python "back-end" package used in your custom widget.
 - `npm_package_name`: name for the npm "front-end" package holding the JavaScript
   implementation used in your custom widget.
